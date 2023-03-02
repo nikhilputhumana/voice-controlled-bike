@@ -17,7 +17,7 @@ The hardware components used are:
 
 ## How to install?
 
-Program the arduino with the arduino code that is provided here and connect the hardware according to the circuit diagram given.
+Program the arduino with the [arduino code](./arduino%20code/main.ino) that is provided here and connect the hardware according to the [circuit diagram](./circuit_diagram/Circuit-diagram.png) given.
 
 Install the app using the given apk and pair it with the mobile device. Open the app and connect to the vehicle and lets go 🚀
 
