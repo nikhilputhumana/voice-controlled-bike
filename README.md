@@ -19,6 +19,7 @@ The hardware components used are:
 ## How to install?
 
 Program the arduino with the [arduino code](./arduino%20code/main.ino) that is provided here and connect the hardware according to the circuit diagram shown below ⬇️
+
 ![circuit diagram](./circuit_diagram/Circuit-diagram.png)
 
 Install the app in your android phone using the [apk](./apk/Dude.apk) provided 📱
